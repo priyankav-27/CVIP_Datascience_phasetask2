@@ -23,11 +23,13 @@ The dataset used in this project contains historical climate data collected from
 
 1. Clone the repository:
 git clone
-```bash https://github.com/your_username/climate-data-analysis.git
+```bash
+https://github.com/priyankav-27/CVIP_Datascience_phasetask2.git
 ```
 
 2. Install the required dependencies:
-```bash pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 3. Run the Jupyter notebooks or Python scripts located in the `notebooks/` and `scripts/` directories, respectively, to perform data analysis.
